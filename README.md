@@ -1,0 +1,4 @@
+- Olá, eu sou @MrdaHora
+- Estou interessado em jogos e programação.
+- Sou atualmente estudante do IFAL(Institudo Federal de Alagoas) no ensino médio integrado com Informática.
+- File ipdated in 25/08/2021.
